@@ -70,10 +70,3 @@ The project demonstrates a solid understanding of Web Development Fundamentals, 
 - Nest Hub Max
 
 ![Image](https://github.com/user-attachments/assets/f4200802-f756-41db-a6c1-6c62bd4b391f)
-
-=======
-=======
-# API-Integration
->>>>>>> d45235f (main)
->>>>>>> 811b795 (main)
->>>>>>> fdfd19f (main)
